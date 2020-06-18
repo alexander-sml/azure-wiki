@@ -1,1 +1,0 @@
-Detected suspicious credentials in commandline.md
