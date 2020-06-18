@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Diagnostic logs in Logic Apps should be enabled.md

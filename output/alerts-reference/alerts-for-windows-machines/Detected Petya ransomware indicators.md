@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-windows-machines/Detected Petya ransomware indicators.md

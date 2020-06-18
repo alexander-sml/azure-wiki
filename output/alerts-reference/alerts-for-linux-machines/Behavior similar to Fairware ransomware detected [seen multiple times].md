@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/Behavior similar to Fairware ransomware detected [seen multiple times].md

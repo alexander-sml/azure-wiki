@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-containers-azure-kubernetes-service-clusters/New container in the kube-system namespace detected.md

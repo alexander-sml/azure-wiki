@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Remediate vulnerabilities found on your virtual machines (powered by Qualys).md

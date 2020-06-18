@@ -1,0 +1,1 @@
+output/recommendations-reference/data-and-storage-recommendations/Transparent Data Encryption on SQL databases should be enabled.md

@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/Manipulation of host firewall detected.md

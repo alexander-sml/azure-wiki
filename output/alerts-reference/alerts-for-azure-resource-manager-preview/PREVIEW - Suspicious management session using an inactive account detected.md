@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-resource-manager-preview/PREVIEW - Suspicious management session using an inactive account detected.md

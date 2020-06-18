@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/A new user was added to the sudoers group.md

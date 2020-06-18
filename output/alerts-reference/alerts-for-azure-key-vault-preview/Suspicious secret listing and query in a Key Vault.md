@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-key-vault-preview/Suspicious secret listing and query in a Key Vault.md

@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Diagnostic logs in Event Hub should be enabled.md

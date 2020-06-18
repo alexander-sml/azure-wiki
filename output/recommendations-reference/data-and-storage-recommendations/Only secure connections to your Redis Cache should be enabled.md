@@ -1,0 +1,1 @@
+output/recommendations-reference/data-and-storage-recommendations/Only secure connections to your Redis Cache should be enabled.md

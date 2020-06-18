@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Authorization rules on the Event Hub entity should be defined.md

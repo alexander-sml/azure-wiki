@@ -1,0 +1,1 @@
+output/recommendations-reference/network-recommendations/Secure transfer to storage accounts should be enabled.md

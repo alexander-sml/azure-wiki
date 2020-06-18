@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-containers-azure-kubernetes-service-clusters/Exposed Kubernetes dashboard detected.md

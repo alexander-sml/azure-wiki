@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Virtual machines should be migrated to new Azure Resource Manager resources.md

@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-ddos-protection/DDoS Attack detected for Public IP.md

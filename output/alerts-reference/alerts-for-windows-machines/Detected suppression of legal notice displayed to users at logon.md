@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-windows-machines/Detected suppression of legal notice displayed to users at logon.md

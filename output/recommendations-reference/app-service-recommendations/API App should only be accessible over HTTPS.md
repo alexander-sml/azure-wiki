@@ -1,0 +1,1 @@
+output/recommendations-reference/app-service-recommendations/API App should only be accessible over HTTPS.md

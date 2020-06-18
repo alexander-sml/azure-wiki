@@ -1,0 +1,1 @@
+output/recommendations-reference/identity-and-access-recommendations/MFA should be enabled on accounts with write permissions on your subscription.md

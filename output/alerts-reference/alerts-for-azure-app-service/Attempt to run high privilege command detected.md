@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-app-service/Attempt to run high privilege command detected.md

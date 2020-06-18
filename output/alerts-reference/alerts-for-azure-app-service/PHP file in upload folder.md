@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-app-service/PHP file in upload folder.md

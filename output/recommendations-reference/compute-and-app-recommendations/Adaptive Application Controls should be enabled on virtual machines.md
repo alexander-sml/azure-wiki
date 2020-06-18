@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Adaptive Application Controls should be enabled on virtual machines.md

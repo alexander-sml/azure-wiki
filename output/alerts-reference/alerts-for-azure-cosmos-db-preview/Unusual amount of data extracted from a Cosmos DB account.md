@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-cosmos-db-preview/Unusual amount of data extracted from a Cosmos DB account.md

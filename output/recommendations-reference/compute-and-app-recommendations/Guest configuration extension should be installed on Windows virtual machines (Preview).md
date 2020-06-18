@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Guest configuration extension should be installed on Windows virtual machines (Preview).md

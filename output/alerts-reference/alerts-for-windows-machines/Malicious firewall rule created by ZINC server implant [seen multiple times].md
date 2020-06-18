@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-windows-machines/Malicious firewall rule created by ZINC server implant [seen multiple times].md

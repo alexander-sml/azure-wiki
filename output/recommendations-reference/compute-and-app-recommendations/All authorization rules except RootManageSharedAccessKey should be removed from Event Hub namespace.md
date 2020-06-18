@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/All authorization rules except RootManageSharedAccessKey should be removed from Event Hub namespace.md

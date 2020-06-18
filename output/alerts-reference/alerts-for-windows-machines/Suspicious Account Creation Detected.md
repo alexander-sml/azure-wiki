@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-windows-machines/Suspicious Account Creation Detected.md
