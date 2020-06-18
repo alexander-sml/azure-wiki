@@ -1,0 +1,1 @@
+An IP that connected to your Azure App Service FTP Interface was found in Threat Intelligence.md

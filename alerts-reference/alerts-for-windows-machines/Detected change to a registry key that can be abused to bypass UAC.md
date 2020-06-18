@@ -1,0 +1,1 @@
+Detected change to a registry key that can be abused to bypass UAC.md
