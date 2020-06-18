@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/VBScript HTTP object allocation detected.md

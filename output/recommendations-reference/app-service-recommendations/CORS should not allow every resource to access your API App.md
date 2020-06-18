@@ -1,1 +1,0 @@
-output/recommendations-reference/app-service-recommendations/CORS should not allow every resource to access your API App.md

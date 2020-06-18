@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/System updates should be installed on your machines.md

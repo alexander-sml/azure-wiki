@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-key-vault-preview/Unusual operation pattern in a Key Vault.md

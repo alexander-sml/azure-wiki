@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-network-layer/Suspicious outgoing %{Attacked Protocol} traffic detected.md

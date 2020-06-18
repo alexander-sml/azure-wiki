@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Ransomware indicators detected [seen multiple times].md

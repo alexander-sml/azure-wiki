@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-app-service/Phishing content hosted on Azure Webapps.md

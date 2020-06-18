@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-storage/Access from an unusual location to a storage account.md

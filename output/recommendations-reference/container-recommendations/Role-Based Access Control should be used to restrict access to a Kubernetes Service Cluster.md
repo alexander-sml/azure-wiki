@@ -1,1 +1,0 @@
-output/recommendations-reference/container-recommendations/Role-Based Access Control should be used to restrict access to a Kubernetes Service Cluster.md

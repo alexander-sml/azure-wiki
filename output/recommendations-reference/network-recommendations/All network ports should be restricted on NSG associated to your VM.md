@@ -1,1 +1,0 @@
-output/recommendations-reference/network-recommendations/All network ports should be restricted on NSG associated to your VM.md

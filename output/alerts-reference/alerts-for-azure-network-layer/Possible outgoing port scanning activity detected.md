@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-network-layer/Possible outgoing port scanning activity detected.md

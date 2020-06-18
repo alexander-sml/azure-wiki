@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-resource-manager-preview/Activity from anonymous IP addresses.md

@@ -1,1 +1,0 @@
-output/recommendations-reference/identity-and-access-recommendations/External accounts with owner permissions should be removed from your subscription.md

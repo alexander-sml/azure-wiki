@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-app-service/Spam folder referrer detected.md

@@ -1,1 +1,0 @@
-output/recommendations-reference/network-recommendations/DDoS Protection Standard should be enabled.md

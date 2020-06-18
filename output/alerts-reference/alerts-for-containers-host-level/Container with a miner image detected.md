@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-containers-host-level/Container with a miner image detected.md

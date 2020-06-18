@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Suspicious double extension file executed.md

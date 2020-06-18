@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-storage/Unusual upload of .exe to a storage account.md

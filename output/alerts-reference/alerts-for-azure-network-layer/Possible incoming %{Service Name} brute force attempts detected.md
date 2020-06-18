@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-network-layer/Possible incoming %{Service Name} brute force attempts detected.md

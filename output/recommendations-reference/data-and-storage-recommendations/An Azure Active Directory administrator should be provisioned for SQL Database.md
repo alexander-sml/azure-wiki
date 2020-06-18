@@ -1,1 +1,0 @@
-output/recommendations-reference/data-and-storage-recommendations/An Azure Active Directory administrator should be provisioned for SQL Database.md

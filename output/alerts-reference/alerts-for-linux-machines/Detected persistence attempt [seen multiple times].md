@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Detected persistence attempt [seen multiple times].md

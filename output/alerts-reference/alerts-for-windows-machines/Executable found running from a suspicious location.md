@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Executable found running from a suspicious location.md

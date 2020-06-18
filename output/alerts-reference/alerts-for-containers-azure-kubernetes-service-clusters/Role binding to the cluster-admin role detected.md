@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-containers-azure-kubernetes-service-clusters/Role binding to the cluster-admin role detected.md

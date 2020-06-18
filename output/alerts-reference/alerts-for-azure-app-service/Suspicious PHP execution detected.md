@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-app-service/Suspicious PHP execution detected.md

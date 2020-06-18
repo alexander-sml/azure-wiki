@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Detected the disabling of critical services.md

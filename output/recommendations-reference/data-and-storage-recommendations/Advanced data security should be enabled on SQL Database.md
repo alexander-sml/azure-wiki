@@ -1,1 +1,0 @@
-output/recommendations-reference/data-and-storage-recommendations/Advanced data security should be enabled on SQL Database.md

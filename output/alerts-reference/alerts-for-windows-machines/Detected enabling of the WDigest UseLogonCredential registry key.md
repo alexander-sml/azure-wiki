@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Detected enabling of the WDigest UseLogonCredential registry key.md
