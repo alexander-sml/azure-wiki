@@ -1,1 +1,0 @@
-CORS should not allow every resource to access your Web Applications.md

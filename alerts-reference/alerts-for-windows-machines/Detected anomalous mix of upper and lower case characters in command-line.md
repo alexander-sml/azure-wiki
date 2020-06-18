@@ -1,1 +1,0 @@
-Detected anomalous mix of upper and lower case characters in command-line.md
