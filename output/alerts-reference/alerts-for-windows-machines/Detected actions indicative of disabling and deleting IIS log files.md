@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-windows-machines/Detected actions indicative of disabling and deleting IIS log files.md

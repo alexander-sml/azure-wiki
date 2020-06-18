@@ -1,0 +1,1 @@
+output/recommendations-reference/data-and-storage-recommendations/Secure transfer to storage accounts should be enabled.md

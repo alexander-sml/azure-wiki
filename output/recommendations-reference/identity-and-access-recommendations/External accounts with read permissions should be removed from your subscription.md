@@ -1,0 +1,1 @@
+output/recommendations-reference/identity-and-access-recommendations/External accounts with read permissions should be removed from your subscription.md

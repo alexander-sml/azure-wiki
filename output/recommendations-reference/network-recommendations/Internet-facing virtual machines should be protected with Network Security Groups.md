@@ -1,0 +1,1 @@
+output/recommendations-reference/network-recommendations/Internet-facing virtual machines should be protected with Network Security Groups.md

@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-network-layer/Possible compromised machine detected.md

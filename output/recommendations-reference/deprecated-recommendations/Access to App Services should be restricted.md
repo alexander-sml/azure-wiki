@@ -1,0 +1,1 @@
+output/recommendations-reference/deprecated-recommendations/Access to App Services should be restricted.md

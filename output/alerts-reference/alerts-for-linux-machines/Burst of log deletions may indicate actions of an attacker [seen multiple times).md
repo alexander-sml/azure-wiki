@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/Burst of log deletions may indicate actions of an attacker [seen multiple times).md

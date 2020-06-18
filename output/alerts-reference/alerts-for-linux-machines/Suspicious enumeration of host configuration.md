@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/Suspicious enumeration of host configuration.md

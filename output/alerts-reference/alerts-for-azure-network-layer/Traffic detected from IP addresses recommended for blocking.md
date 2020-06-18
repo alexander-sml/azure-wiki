@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-network-layer/Traffic detected from IP addresses recommended for blocking.md

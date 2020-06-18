@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-key-vault-preview/Suspicious policy change and secret query in a Key Vault.md

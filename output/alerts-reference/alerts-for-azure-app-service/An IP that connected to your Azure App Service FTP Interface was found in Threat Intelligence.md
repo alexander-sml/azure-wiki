@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-app-service/An IP that connected to your Azure App Service FTP Interface was found in Threat Intelligence.md

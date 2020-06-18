@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/Container with a miner image detected.md

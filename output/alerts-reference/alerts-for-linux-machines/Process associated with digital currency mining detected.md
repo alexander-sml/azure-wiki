@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/Process associated with digital currency mining detected.md

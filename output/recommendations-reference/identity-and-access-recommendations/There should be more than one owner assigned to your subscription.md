@@ -1,0 +1,1 @@
+output/recommendations-reference/identity-and-access-recommendations/There should be more than one owner assigned to your subscription.md

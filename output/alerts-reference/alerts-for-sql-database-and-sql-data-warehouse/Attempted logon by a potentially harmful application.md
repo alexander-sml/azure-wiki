@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-sql-database-and-sql-data-warehouse/Attempted logon by a potentially harmful application.md

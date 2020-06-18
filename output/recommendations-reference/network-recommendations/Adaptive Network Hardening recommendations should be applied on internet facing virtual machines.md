@@ -1,0 +1,1 @@
+output/recommendations-reference/network-recommendations/Adaptive Network Hardening recommendations should be applied on internet facing virtual machines.md

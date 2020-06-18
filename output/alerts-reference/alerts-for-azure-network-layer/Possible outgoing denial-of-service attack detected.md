@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-network-layer/Possible outgoing denial-of-service attack detected.md

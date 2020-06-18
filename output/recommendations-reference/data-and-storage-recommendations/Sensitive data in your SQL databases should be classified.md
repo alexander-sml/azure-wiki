@@ -1,0 +1,1 @@
+output/recommendations-reference/data-and-storage-recommendations/Sensitive data in your SQL databases should be classified.md

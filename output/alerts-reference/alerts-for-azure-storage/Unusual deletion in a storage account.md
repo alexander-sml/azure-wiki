@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-azure-storage/Unusual deletion in a storage account.md

@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-windows-machines/Successful brute force attack.md

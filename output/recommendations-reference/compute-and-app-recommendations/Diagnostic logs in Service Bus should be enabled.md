@@ -1,0 +1,1 @@
+output/recommendations-reference/compute-and-app-recommendations/Diagnostic logs in Service Bus should be enabled.md

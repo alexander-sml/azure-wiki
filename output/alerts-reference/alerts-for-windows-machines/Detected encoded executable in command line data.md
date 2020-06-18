@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-windows-machines/Detected encoded executable in command line data.md

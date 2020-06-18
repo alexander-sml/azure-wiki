@@ -1,0 +1,1 @@
+output/alerts-reference/alerts-for-linux-machines/Screenshot taken on host [seen multiple times].md

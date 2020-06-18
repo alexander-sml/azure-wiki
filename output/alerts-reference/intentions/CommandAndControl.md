@@ -1,0 +1,1 @@
+output/alerts-reference/intentions/CommandAndControl.md

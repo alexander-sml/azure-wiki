@@ -1,0 +1,1 @@
+output/recommendations-reference/deprecated-recommendations/The rules for web applications on IaaS NSGs should be hardened.md
