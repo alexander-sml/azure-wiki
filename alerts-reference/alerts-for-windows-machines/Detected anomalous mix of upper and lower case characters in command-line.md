@@ -1,1 +1,1 @@
-Detected anomalous mix of upper and lower case characters in command-line.md
+alerts-reference/alerts-for-windows-machines/Detected anomalous mix of upper and lower case characters in command-line.md

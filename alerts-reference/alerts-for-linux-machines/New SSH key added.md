@@ -1,1 +1,1 @@
-New SSH key added.md
+alerts-reference/alerts-for-linux-machines/New SSH key added.md

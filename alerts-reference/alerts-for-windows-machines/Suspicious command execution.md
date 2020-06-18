@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Suspicious command execution.md

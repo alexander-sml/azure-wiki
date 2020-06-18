@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-containers-host-level/Exposed Docker daemon detected.md

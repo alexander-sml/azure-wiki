@@ -1,0 +1,1 @@
+alerts-reference/intentions/Impact.md

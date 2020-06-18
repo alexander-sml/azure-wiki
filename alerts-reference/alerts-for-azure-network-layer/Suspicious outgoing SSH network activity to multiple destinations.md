@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-network-layer/Suspicious outgoing SSH network activity to multiple destinations.md

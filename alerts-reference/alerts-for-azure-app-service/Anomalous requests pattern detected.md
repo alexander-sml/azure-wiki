@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-app-service/Anomalous requests pattern detected.md

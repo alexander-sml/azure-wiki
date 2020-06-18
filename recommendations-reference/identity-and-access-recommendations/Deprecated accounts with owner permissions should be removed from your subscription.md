@@ -1,0 +1,1 @@
+recommendations-reference/identity-and-access-recommendations/Deprecated accounts with owner permissions should be removed from your subscription.md

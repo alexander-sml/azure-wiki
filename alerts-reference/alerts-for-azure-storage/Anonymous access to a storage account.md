@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-storage/Anonymous access to a storage account.md

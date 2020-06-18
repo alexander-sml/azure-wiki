@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-sql-database-and-sql-data-warehouse/Potential SQL injection.md

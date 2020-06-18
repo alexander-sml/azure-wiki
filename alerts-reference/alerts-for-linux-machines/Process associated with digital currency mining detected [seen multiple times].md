@@ -1,1 +1,1 @@
-Process associated with digital currency mining detected [seen multiple times].md
+alerts-reference/alerts-for-linux-machines/Process associated with digital currency mining detected [seen multiple times].md

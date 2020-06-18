@@ -1,0 +1,1 @@
+recommendations-reference/data-and-storage-recommendations/Vulnerabilities on your SQL databases should be remediated.md

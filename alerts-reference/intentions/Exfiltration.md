@@ -1,1 +1,1 @@
-Exfiltration.md
+alerts-reference/intentions/Exfiltration.md

@@ -1,0 +1,1 @@
+recommendations-reference/container-recommendations/Pod Security Policies should be defined to reduce the attack vector by removing unnecessary application privileges (Preview).md

@@ -1,1 +1,1 @@
-Detected suspicious credentials in commandline.md
+alerts-reference/alerts-for-windows-machines/Detected suspicious credentials in commandline.md

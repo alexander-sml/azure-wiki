@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-linux-machines/Script extension mismatch detected.md

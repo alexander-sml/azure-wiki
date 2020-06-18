@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Detected possible local reconnaissance activity.md

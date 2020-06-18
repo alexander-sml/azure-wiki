@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-containers-azure-kubernetes-service-clusters/Digital currency mining container detected.md

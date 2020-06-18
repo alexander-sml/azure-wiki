@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-network-layer/Network communication with a malicious machine detected.md

@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Detected suspicious file cleanup commands.md

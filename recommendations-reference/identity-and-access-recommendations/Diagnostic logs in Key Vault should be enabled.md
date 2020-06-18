@@ -1,0 +1,1 @@
+recommendations-reference/identity-and-access-recommendations/Diagnostic logs in Key Vault should be enabled.md

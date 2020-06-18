@@ -1,0 +1,1 @@
+recommendations-reference/compute-and-app-recommendations/Install endpoint protection solution on your machines.md

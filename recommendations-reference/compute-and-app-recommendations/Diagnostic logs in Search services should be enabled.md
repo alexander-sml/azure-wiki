@@ -1,0 +1,1 @@
+recommendations-reference/compute-and-app-recommendations/Diagnostic logs in Search services should be enabled.md

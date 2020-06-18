@@ -1,0 +1,1 @@
+recommendations-reference/data-and-storage-recommendations/Diagnostic logs in Data Lake Analytics should be enabled.md

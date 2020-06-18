@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-linux-machines/Access of htaccess file detected.md

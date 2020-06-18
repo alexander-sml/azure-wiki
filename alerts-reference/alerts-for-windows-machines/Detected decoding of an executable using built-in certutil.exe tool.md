@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Detected decoding of an executable using built-in certutil.exe tool.md

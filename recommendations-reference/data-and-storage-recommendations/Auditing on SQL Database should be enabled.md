@@ -1,0 +1,1 @@
+recommendations-reference/data-and-storage-recommendations/Auditing on SQL Database should be enabled.md

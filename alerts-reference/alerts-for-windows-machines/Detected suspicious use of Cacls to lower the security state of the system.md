@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Detected suspicious use of Cacls to lower the security state of the system.md

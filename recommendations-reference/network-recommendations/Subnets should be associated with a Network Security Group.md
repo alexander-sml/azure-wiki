@@ -1,0 +1,1 @@
+recommendations-reference/network-recommendations/Subnets should be associated with a Network Security Group.md

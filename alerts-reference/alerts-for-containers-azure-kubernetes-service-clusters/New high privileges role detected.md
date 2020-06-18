@@ -1,1 +1,1 @@
-New high privileges role detected.md
+alerts-reference/alerts-for-containers-azure-kubernetes-service-clusters/New high privileges role detected.md

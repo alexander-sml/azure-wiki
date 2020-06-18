@@ -1,0 +1,1 @@
+recommendations-reference/identity-and-access-recommendations/External accounts with write permissions should be removed from your subscription.md

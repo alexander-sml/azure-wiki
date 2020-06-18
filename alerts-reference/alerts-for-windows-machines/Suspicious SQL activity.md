@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Suspicious SQL activity.md

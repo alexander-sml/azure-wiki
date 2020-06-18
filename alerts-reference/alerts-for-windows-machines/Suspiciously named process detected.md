@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Suspiciously named process detected.md

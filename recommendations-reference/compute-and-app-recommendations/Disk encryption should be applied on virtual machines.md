@@ -1,0 +1,1 @@
+recommendations-reference/compute-and-app-recommendations/Disk encryption should be applied on virtual machines.md

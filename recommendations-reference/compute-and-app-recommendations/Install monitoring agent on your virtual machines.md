@@ -1,0 +1,1 @@
+recommendations-reference/compute-and-app-recommendations/Install monitoring agent on your virtual machines.md

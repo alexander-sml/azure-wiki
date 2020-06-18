@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Possible credential dumping detected [seen multiple times].md

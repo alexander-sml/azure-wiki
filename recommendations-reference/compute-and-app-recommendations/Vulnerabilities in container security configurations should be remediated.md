@@ -1,0 +1,1 @@
+recommendations-reference/compute-and-app-recommendations/Vulnerabilities in container security configurations should be remediated.md

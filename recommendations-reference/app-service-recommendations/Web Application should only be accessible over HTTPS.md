@@ -1,0 +1,1 @@
+recommendations-reference/app-service-recommendations/Web Application should only be accessible over HTTPS.md

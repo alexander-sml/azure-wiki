@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-storage/Unusual amount of data extracted from a storage account.md

@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-network-layer/Possible incoming SQL brute force attempts detected.md

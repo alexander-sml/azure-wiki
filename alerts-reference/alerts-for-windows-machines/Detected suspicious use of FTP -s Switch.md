@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Detected suspicious use of FTP -s Switch.md

@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-app-service/Web fingerprinting detectedbr(NMAP  Blind Elephant).md

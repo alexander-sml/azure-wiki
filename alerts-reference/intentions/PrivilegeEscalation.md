@@ -1,1 +1,1 @@
-PrivilegeEscalation.md
+alerts-reference/intentions/PrivilegeEscalation.md

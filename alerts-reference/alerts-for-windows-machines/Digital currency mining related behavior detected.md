@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-windows-machines/Digital currency mining related behavior detected.md

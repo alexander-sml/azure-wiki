@@ -1,0 +1,1 @@
+recommendations-reference/virtual-machine-scale-set-recommendations/Vulnerabilities in security configuration on your virtual machine scale sets should be remediated.md

@@ -1,1 +1,1 @@
-Multiple Domain Accounts Queried.md
+alerts-reference/alerts-for-windows-machines/Multiple Domain Accounts Queried.md

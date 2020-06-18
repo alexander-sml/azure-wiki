@@ -1,0 +1,1 @@
+alerts-reference/alerts-for-azure-resource-manager-preview/PREVIEW – Suspicious management session using Azure portal detected.md
