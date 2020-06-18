@@ -1,0 +1,1 @@
+Diagnostic logs in Event Hub should be enabled.md
