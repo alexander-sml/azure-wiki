@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/Diagnostic logs in Azure Stream Analytics should be enabled.md

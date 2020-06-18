@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-app-service/An attempt to run Linux commands on a Windows App Service.md

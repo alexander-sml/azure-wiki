@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/High risk software detected.md

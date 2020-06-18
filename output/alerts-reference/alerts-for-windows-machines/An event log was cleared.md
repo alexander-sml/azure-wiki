@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/An event log was cleared.md

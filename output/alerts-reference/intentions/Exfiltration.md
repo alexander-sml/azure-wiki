@@ -1,1 +1,0 @@
-output/alerts-reference/intentions/Exfiltration.md

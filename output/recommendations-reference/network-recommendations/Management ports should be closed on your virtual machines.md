@@ -1,1 +1,0 @@
-output/recommendations-reference/network-recommendations/Management ports should be closed on your virtual machines.md

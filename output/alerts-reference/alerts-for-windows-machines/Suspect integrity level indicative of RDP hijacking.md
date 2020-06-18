@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Suspect integrity level indicative of RDP hijacking.md

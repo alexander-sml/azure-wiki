@@ -1,1 +1,0 @@
-output/recommendations-reference/virtual-machine-scale-set-recommendations/Endpoint protection solution should be installed on virtual machine scale sets.md

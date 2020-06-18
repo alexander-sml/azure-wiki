@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Windows registry persistence method detected.md

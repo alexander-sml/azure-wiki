@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Detected suspicious commandline used to start all executables in a directory.md

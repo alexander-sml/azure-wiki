@@ -1,1 +1,0 @@
-output/recommendations-reference/virtual-machine-scale-set-recommendations/Endpoint protection health failures should be remediated on virtual machine scale sets.md

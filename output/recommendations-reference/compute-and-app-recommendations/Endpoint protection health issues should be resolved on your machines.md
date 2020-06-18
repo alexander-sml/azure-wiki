@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/Endpoint protection health issues should be resolved on your machines.md

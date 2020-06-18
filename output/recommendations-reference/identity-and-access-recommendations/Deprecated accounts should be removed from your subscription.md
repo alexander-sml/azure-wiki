@@ -1,1 +1,0 @@
-output/recommendations-reference/identity-and-access-recommendations/Deprecated accounts should be removed from your subscription.md

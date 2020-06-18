@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Suspicious Activity Detected.md

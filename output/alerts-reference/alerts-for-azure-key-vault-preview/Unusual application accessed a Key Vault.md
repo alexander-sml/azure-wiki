@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-key-vault-preview/Unusual application accessed a Key Vault.md

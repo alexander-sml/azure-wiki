@@ -1,1 +1,0 @@
-output/recommendations-reference/app-service-recommendations/Diagnostic logs in App Services should be enabled.md

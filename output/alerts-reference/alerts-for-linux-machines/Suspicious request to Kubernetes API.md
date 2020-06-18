@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Suspicious request to Kubernetes API.md

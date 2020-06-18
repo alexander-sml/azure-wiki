@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Privileged command run in container.md

@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/An history file has been cleared.md

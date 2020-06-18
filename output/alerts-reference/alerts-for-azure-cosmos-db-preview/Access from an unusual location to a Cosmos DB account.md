@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-cosmos-db-preview/Access from an unusual location to a Cosmos DB account.md

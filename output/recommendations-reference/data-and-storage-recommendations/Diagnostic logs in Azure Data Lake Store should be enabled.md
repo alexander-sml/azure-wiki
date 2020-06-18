@@ -1,1 +1,0 @@
-output/recommendations-reference/data-and-storage-recommendations/Diagnostic logs in Azure Data Lake Store should be enabled.md

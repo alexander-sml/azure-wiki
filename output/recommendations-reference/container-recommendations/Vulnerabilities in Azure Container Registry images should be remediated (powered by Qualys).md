@@ -1,1 +1,0 @@
-output/recommendations-reference/container-recommendations/Vulnerabilities in Azure Container Registry images should be remediated (powered by Qualys).md

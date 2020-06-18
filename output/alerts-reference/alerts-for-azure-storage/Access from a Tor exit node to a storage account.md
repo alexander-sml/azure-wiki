@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-storage/Access from a Tor exit node to a storage account.md

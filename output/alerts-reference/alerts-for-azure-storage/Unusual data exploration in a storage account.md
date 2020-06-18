@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-storage/Unusual data exploration in a storage account.md

@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-network-layer/Suspicious incoming RDP network activity from multiple sources.md

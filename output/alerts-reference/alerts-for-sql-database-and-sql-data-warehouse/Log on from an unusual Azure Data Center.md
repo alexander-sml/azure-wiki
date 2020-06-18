@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-sql-database-and-sql-data-warehouse/Log on from an unusual Azure Data Center.md

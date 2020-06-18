@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-app-service/Connection to web page from anomalous IP address detected.md

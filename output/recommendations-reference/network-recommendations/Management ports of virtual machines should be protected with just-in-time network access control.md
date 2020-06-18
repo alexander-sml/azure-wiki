@@ -1,1 +1,0 @@
-output/recommendations-reference/network-recommendations/Management ports of virtual machines should be protected with just-in-time network access control.md

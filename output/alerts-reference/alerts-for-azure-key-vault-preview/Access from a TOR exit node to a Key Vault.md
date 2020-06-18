@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-key-vault-preview/Access from a TOR exit node to a Key Vault.md

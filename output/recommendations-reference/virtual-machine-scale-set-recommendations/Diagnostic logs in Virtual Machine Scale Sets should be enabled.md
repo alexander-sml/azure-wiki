@@ -1,1 +1,0 @@
-output/recommendations-reference/virtual-machine-scale-set-recommendations/Diagnostic logs in Virtual Machine Scale Sets should be enabled.md

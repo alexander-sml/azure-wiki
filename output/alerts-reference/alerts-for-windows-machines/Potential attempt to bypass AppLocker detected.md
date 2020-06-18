@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Potential attempt to bypass AppLocker detected.md

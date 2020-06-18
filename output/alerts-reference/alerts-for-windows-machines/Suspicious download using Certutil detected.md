@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Suspicious download using Certutil detected.md

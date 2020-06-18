@@ -1,1 +1,0 @@
-output/recommendations-reference/virtual-machine-scale-set-recommendations/System updates on virtual machine scale sets should be installed.md

@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-containers-host-level/Privileged command run in container.md

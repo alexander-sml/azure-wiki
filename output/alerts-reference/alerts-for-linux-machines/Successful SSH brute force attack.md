@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Successful SSH brute force attack.md

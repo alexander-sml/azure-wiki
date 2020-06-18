@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Detected potentially suspicious use of Telegram tool.md

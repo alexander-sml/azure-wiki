@@ -1,1 +1,0 @@
-output/recommendations-reference/container-recommendations/Authorized IP ranges should be defined on Kubernetes Services.md
