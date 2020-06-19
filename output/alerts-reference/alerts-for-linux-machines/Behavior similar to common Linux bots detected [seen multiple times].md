@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Behavior similar to common Linux bots detected [seen multiple times].md

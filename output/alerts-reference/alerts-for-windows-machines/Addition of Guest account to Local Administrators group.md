@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Addition of Guest account to Local Administrators group.md

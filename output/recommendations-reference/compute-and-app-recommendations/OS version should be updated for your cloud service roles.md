@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/OS version should be updated for your cloud service roles.md

@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/SSH server is running inside a container .md

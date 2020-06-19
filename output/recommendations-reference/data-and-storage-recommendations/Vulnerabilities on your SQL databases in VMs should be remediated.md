@@ -1,1 +1,0 @@
-output/recommendations-reference/data-and-storage-recommendations/Vulnerabilities on your SQL databases in VMs should be remediated.md

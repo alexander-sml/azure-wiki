@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-sql-database-and-sql-data-warehouse/Potential SQL Brute Force attempt.md

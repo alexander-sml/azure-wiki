@@ -1,1 +1,0 @@
-output/recommendations-reference/data-and-storage-recommendations/Storage accounts should be migrated to new Azure Resource Manager resources.md

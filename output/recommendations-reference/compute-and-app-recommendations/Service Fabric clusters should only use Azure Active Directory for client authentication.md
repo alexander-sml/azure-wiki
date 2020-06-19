@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/Service Fabric clusters should only use Azure Active Directory for client authentication.md

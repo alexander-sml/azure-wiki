@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Shellcode detected [seen multiple times].md

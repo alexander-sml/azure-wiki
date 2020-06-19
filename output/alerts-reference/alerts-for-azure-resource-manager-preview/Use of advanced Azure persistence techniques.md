@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-resource-manager-preview/Use of advanced Azure persistence techniques.md

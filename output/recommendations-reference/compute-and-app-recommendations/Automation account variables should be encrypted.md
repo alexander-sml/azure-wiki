@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/Automation account variables should be encrypted.md

@@ -1,1 +1,0 @@
-output/alerts-reference/intentions/Execution.md

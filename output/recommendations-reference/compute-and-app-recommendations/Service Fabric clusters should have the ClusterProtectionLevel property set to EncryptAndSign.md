@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/Service Fabric clusters should have the ClusterProtectionLevel property set to EncryptAndSign.md

@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Exposed Docker daemon detected.md

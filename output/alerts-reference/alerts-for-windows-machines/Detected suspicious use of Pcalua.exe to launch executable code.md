@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Detected suspicious use of Pcalua.exe to launch executable code.md

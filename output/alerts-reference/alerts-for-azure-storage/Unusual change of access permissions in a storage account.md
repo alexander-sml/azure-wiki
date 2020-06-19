@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-storage/Unusual change of access permissions in a storage account.md

@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-resource-manager-preview/PREVIEW – MicroBurst toolkit Get-AzureDomainInfo function run detected.md

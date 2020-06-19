@@ -1,1 +1,0 @@
-output/recommendations-reference/compute-and-app-recommendations/Vulnerabilities in security configuration on your machines should be remediated.md

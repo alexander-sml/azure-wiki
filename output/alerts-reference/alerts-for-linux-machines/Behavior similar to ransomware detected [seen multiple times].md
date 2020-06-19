@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Behavior similar to ransomware detected [seen multiple times].md

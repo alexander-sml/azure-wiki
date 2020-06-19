@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Possible attack tool detected.md

@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Detected suspicious network activity.md

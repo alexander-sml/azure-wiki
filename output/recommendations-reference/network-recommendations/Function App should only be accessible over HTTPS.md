@@ -1,1 +1,0 @@
-output/recommendations-reference/network-recommendations/Function App should only be accessible over HTTPS.md

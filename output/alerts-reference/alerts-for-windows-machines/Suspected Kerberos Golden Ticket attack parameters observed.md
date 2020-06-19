@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-windows-machines/Suspected Kerberos Golden Ticket attack parameters observed.md

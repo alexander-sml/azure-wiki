@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-azure-app-service/Suspicious WordPress theme invocation detected.md

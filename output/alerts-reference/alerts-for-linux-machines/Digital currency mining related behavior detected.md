@@ -1,1 +1,0 @@
-output/alerts-reference/alerts-for-linux-machines/Digital currency mining related behavior detected.md
