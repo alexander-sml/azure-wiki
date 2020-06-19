@@ -1,1 +1,3 @@
-alerts-reference/alerts-for-linux-machines/Behavior similar to common Linux bots detected.md
+|Alert|Description|Intent ([Learn more](#intentions))|Severity|
+|----|----|:----:|--|
+|**Behavior similar to common Linux bots detected**|Analysis of host data on %{Compromised Host} detected the execution of a process normally associated with common Linux botnets.|-|Medium|
